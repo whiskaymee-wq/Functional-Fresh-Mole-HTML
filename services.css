@@ -37,6 +37,10 @@
   justify-content: center;
 }
  
+.navigation-header-text16 {
+  background-color: rgb(0, 0, 0);
+}
+ 
 .navigation-header-container4 {
   display: none;
 }
