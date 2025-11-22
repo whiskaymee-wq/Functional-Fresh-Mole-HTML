@@ -37,19 +37,7 @@
   justify-content: center;
 }
  
-.navigation-header-image1 {
-  width: 1074px;
-  height: 1267px;
-  object-fit: cover;
-}
- 
-.navigation-header-image2 {
-  width: 1200px;
-  height: 1193px;
-  object-fit: cover;
-}
- 
-.navigation-header-image3 {
+.navigation-header-image {
   width: 1200px;
   height: 1246px;
   align-self: stretch;
@@ -58,10 +46,6 @@
 }
  
 .navigation-header-text16 {
-  background-color: rgb(0, 0, 0);
-}
- 
-.navigation-header-text18 {
   background-color: rgb(0, 0, 0);
 }
  
