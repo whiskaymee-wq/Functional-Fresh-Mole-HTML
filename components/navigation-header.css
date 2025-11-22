@@ -41,6 +41,12 @@
  
 .navigation-header-image2 {
   width: 1200px;
+  height: 1193px;
+  object-fit: cover;
+}
+ 
+.navigation-header-image3 {
+  width: 1200px;
   height: 1246px;
   align-self: stretch;
   margin-top: var(--z-base);
